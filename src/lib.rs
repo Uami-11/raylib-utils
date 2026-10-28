@@ -1,1 +1,1 @@
-mod timer;
+pub mod timer;
